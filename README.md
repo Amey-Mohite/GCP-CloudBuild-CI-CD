@@ -1,4 +1,4 @@
-## 🚀 Demo Flask App with BigQuery Integration and Cloud Build CI/CD
+# 🚀 Demo Flask App with BigQuery Integration and Cloud Build CI/CD
 
 This is a minimal Flask application that loads data from a CSV file in a Google Cloud Storage (GCS) bucket into a BigQuery table. The app is containerized using Docker and deployed to Google Cloud Run using Cloud Build with automated testing.
 
